@@ -7,9 +7,10 @@ Version: 1.0
 */
 
 #logo{
+background:transparent;
     margin-top: 20px;
     margin-bottom: 20px;
-    max-width: 300px;
+    max-width: 150px;
 }
 #footer{
     margin-top: 20px;
@@ -27,3 +28,7 @@ Version: 1.0
 .block{
     padding: 15px;
 }
+body {
+    background-color:black;
+}
+
