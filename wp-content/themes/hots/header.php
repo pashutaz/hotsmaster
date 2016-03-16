@@ -8,7 +8,7 @@
 <body>
 <div class="container">
     <a href="/" title="Main page">
-        <img id="logo" src="<?php echo get_template_directory_uri()?>/img/wordpress.jpg" alt="WordPress logo">
+        <img id="logo" src="<?php echo get_template_directory_uri()?>/img/Hots.png" alt="WordPress logo">
     </a>
 
     <nav class="navbar navbar-default">
